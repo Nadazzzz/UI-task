@@ -1,0 +1,236 @@
+img{
+    width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.clr{
+    clear: both;
+}
+.home{
+    height: 700;
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    overflow: hidden;
+}
+.home .text h1{
+    font-family:"Alegreya";
+    font-size: 76px;
+    font-weight: 400;
+}
+.home .text{
+    text-align: center;
+    margin-top: 250px;
+    color: aliceblue;
+}
+.home .text button{
+    margin-top: 20px;
+    height: 40px;
+    font-size: 12px;
+    text-transform: capitalize;
+    background-color: transparent;
+    color: aliceblue;
+    width: 100px;
+    text-transform: capitalize;
+}
+.home .text .learn{
+    background-color: #8e7754;
+    border-color:#8e7754;
+  
+} 
+/*  */
+
+.section2 .parent{
+    width: 60%;
+    margin: auto;
+    padding: 50px;
+    
+}
+.section2 .parent .item1 img{
+    width: 400;
+}
+.section2 .parent .item1
+{   
+    float: left;
+  
+}
+.section2 .parent .item1 ul{
+    padding-left: 30px;
+}
+
+.section2 .parent .item2{
+    padding: 28px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width:45%;
+    color: gray;
+    font-family: "Alegreya Sans";
+
+    
+}
+.section2 .parent .item2 p{
+    font-size: 11px;
+    line-height: 1.86em;
+}
+.section2 .parent .item2 h2{
+    color: rgb(91, 86, 86);
+}
+/*  */
+.section3{
+    background-color: #f8f8f8;
+}
+
+.section3 .dad{
+    width: 60%;
+    margin: auto;
+    padding: 50px;
+}
+.section3 .dad .child1{
+    float: left;
+}
+
+.section3 .dad .child2{
+    width: 50%;
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+    padding:15px;
+    margin-top: 50px;
+    font-size: 13px;
+    color:rgb(91, 86, 86)
+  
+}
+
+.section3 .dad .child1 img{
+    width: 400;
+    padding-left: 50px;
+
+}
+/*  */
+.section4 .papa{
+    width: 80%;
+    margin: auto;
+    
+}
+.section4 .papa  .son1
+{
+    text-align: center;
+    margin-top: 30px;
+}
+.section4 .papa .son1 p{
+    font-size: 15px;
+    color: #888;
+}
+.section4 .papa .son1 h2{
+    font-weight: 400;
+    font-size: 25px;
+    color: #303030;
+}
+.section4 .father{
+    width: 80%;
+    margin: auto;
+    padding:  0px 100px ;
+
+}
+.section4 .father .kid1{
+    float: left;
+    width:33.333%;
+    padding: 20px;
+    text-align: center;
+    color: #686868;;
+    font-size: 11px;
+    
+    
+}
+
+.section4 .father .kid1 h2{
+    color: #303030;
+    font-weight: 170;
+    font-size: 18px;
+}
+
+.section4  .father .kid1 img{
+    width: 280px;
+}
+/*  */
+.section5{
+   
+    background-color: #f8f8f8;
+}
+.section5 .pop{
+    width: 60%;
+    margin: auto;
+   
+}
+.section5 .pop .nono{
+  
+    float: left;
+    padding: 25px;
+}
+.section5 .pop .nono2 iframe{
+    width:440px;
+    height: 325px;
+    margin-top: 38px;
+    padding-left: 30px;
+}
+.section5 .pop .nono1{
+    width: 40%;
+    color: #686868;
+    font-size: 14px;
+    margin-top: 50px;
+}
+.section5 .pop .nono1 ul{
+    padding-left: 13px;
+}
+.section5 .pop .nono1 h2{
+  color: #303030;
+  font-size: 18px;
+  font-weight: 170;
+  font-family: "Alegreya Sans";
+
+}
+/*  */
+.section6{
+    background-color:#403d38;
+    padding: 20px;
+}
+.section6 .z{
+width: 60%;
+margin: auto;
+}
+.section6 .z .n{
+    float: left;
+    width:20%;
+    margin:20px;
+    padding: 5px;
+    color: #969696;
+    font-size: 11px;
+}
+.section6 .z .n h2{
+    color: #f8f8f8;
+    font-family:"Alegreya Sans" ;
+    font-size: 14px;
+}
+/*  */
+.section7{
+    background-color:#151515;
+    
+}
+.section7 .l {
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+  
+}
+.section7 .l img{
+    width: 20%;
+}
+.section7 .l p{
+    color: #777;
+    font-size: 10px;
+    padding-left: 27px;
+}
